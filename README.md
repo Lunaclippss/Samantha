@@ -1,6 +1,6 @@
 <h1>Meet Samantha: Your Friendly AI Bot</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ ### [YouTube Demonstration]()
 
 <h2>Description</h2>
 Project consists of a simple AI Bot
