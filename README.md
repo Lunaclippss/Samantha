@@ -1,4 +1,4 @@
-<h1>Meet Samantha: Your Friendly AI Bot</h1>
+<h1>Meet Angela: Your Friendly AI Bot</h1>
 
  ### [YouTube Demonstration]()
 
